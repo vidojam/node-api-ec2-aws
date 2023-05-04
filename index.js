@@ -24,6 +24,6 @@ const dogs = [{
   } 
 ]
 
-app.get('/', (req, res) => res.send('Welsome to my API'))
+app.get('/', (req, res) => res.send('Welcome to my API'))
 
 app.listen(4000, () => console.log ('Api running on port 4000'))
