@@ -9,16 +9,16 @@ app.use(cors())
 const dogs = [{
   
     'name':'paco',
-    'breed':'ba',
+    'breed':'bulldog',
     'age':'55'
   },
   {
-    'name':'Bagel',
-    'breed':'ruff',
+    'name':'bagel',
+    'breed':'akita',
     'age':'50'
   }, 
   {
-    'name':'paco',
+    'name':'chacha',
     'breed':'yorkie',
     'age':'60'
   } 
